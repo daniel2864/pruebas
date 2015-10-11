@@ -5,7 +5,8 @@
  * Date: 11/10/2015
  * Time: 02:47 PM
  */
-echo "Probando php storm";
-echo "modificacion del servidor";
-echo "probando conflicto del servidor3";
-echo "hola mundo";
+function suma($a,$b){
+    return $a + $b;
+}
+
+echo suma(5,8);
