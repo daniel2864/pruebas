@@ -5,4 +5,3 @@ function suma($a,$b){
 }
 
 echo suma($a,$b);
-//probando
